@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1430D105-E86C-D7FB-A1F1-138E25DEFCCB}") = "Unity_SpatialMedia", "Assembly-CSharp-firstpass.csproj", "{B8EEF0AC-8B4A-3034-99CB-55C3C55B5A6B}"
+EndProject
+Project("{1430D105-E86C-D7FB-A1F1-138E25DEFCCB}") = "Unity_SpatialMedia", "Assembly-CSharp.csproj", "{19FA5181-7955-F380-A23D-DA828B546D29}"
+EndProject
+Project("{1430D105-E86C-D7FB-A1F1-138E25DEFCCB}") = "Unity_SpatialMedia", "Assembly-CSharp-Editor.csproj", "{F74239B4-CB0F-8A47-808A-661DC4DC5CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EEF0AC-8B4A-3034-99CB-55C3C55B5A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EEF0AC-8B4A-3034-99CB-55C3C55B5A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EEF0AC-8B4A-3034-99CB-55C3C55B5A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EEF0AC-8B4A-3034-99CB-55C3C55B5A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FA5181-7955-F380-A23D-DA828B546D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FA5181-7955-F380-A23D-DA828B546D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FA5181-7955-F380-A23D-DA828B546D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FA5181-7955-F380-A23D-DA828B546D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74239B4-CB0F-8A47-808A-661DC4DC5CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74239B4-CB0F-8A47-808A-661DC4DC5CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74239B4-CB0F-8A47-808A-661DC4DC5CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74239B4-CB0F-8A47-808A-661DC4DC5CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
