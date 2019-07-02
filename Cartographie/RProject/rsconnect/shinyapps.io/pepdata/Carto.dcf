@@ -1,0 +1,13 @@
+name: Carto
+title: Carto
+username:
+account: pepdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1008498
+bundleId: 2194350
+url: https://pepdata.shinyapps.io/Carto/
+when: 1562078882.53865
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Synthèse Questionnaire Cartographie 2019 - Form Responses corr.csv|test.csv|RProject/server - Copie.R|RProject/ui - Copie.R
