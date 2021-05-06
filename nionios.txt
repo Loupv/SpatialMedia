@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello loup! Bonjour Dionysis !
-Tu adores GitHub ou pas?????
-=======
-Hello loup! Bonjour Dionysis ! Tout casser
->>>>>>> origin/master
